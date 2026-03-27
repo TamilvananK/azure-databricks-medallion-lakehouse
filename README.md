@@ -1,4 +1,4 @@
-# Azure Databricks Medallion Data Lakehouse: Flight Data Analytics
+# Databricks Medallion Data Lakehouse: Flight Data Analytics
 
 ## Project Overview
 
